@@ -2,6 +2,13 @@
 
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
+![Site screnshot](NoteTakerPic01.png)
+![Site screnshot](NoteTakerPic02.png)
+
+<a href="https://afrozez.github.io/express-note-taker/"><br>Link to deployed GitHub application: https://afrozez.github.io/express-note-taker/</a>
+
+<a href="https://limitless-temple-89293-0a5a9820cdd4.herokuapp.com/"><br>Link to live heroku server application: https://limitless-temple-89293-0a5a9820cdd4.herokuapp.com/</a>
+
 ## Description
 
 This project can be used to write and save notes. This application will use an Express.js back end and will save and retrieve note data from a JSON file.
